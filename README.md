@@ -70,19 +70,6 @@ Soy una persona curiosa, comunicativa y con gran facilidad para el trato con los
 | [DIW05_Animaciones](https://github.com/mariwu/DIW05_Animaciones) | Proyecto de animaciones CSS, Canvas y SVG | HTML · CSS · SVG · Canvas |
 | [dwes05](https://github.com/mariwu/dwes05) | Aplicación de críticas de películas | Laravel 10 · PHP · MySQL |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariwu&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mariwu&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
