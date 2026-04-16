@@ -98,6 +98,8 @@ Aplicación web para gestionar y publicar críticas de películas. Incluye auten
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-mariwu-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mariwu)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=mariwu&color=blueviolet&style=flat-square)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
@@ -110,4 +112,4 @@ Aplicación web para gestionar y publicar críticas de películas. Incluye auten
 Si tienes una oportunidad o simplemente quieres hablar de código, escríbeme:
 
 📧 [mariafernandezgilarte@gmail.com](mailto:mariafernandezgilarte@gmail.com)
-![Visitor Count](https://komarev.com/ghpvc/?username=mariwu&color=blueviolet&style=flat-square)
+
