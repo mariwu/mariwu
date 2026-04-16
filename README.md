@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maria%20Fernández%20Gilarte&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desarrolladora%20Web%20en%20formación&descAlignY=58&descSize=18&descColor=fff"/>
+# Maria Fernández Gilarte
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Apasionada+de+las+bases+de+datos+%F0%9F%97%84%EF%B8%8F;Construyendo+con+código+desde+Córdoba+%F0%9F%87%AA%F0%9F%87%B8;Siempre+aprendiendo%2C+siempre+creciendo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
+**Desarrolladora Web en formación · Córdoba, España**
 
 [![Gmail](https://img.shields.io/badge/Gmail-mariafernandezgilarte%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariafernandezgilarte@gmail.com)
 &nbsp;
@@ -67,6 +63,27 @@ Lo que más me apasiona del desarrollo es el mundo de las **bases de datos** y t
 
 ---
 
+## 🎓 Formación
+
+| Período | Centro | Título |
+|---|---|---|
+| 2024 – Actualidad| I.E.S Aguadulce | CFGS Desarrollo de Aplicaciones Web |
+| 2021 – 2023 | iLerna | CFGM Técnico Auxiliar de Enfermería |
+| 2013-2014| I.E.S La Fuensanta | Higienista Bucodental y Medicina Preventiva |
+
+---
+
+## 📜 Certificaciones
+
+| Año | Entidad | Certificación |
+|---|---|---|
+| nov. 2025 | IBM | Web Development with Python |
+| oct. 2025 | Google | Fundamentos de la Ciberseguridad |
+| oct. 2025 | Coursera | Generative AI: Prompt Engineering |
+| oct. 2025 | IBM SkillsBuild | Fundamentos del Desarrollo Web |
+
+---
+
 ## 🚀 Proyectos
 
 ### [DIW05 — Animaciones Web](https://github.com/mariwu/DIW05_Animaciones)
@@ -102,14 +119,4 @@ Aplicación web para gestionar y publicar críticas de películas. Incluye auten
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-
----
-
-## Contacto
-
-Si tienes una oportunidad o simplemente quieres hablar de código, escríbeme:
-
-📧 [mariafernandezgilarte@gmail.com](mailto:mariafernandezgilarte@gmail.com)
 
