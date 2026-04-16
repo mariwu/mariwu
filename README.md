@@ -110,3 +110,4 @@ Aplicación web para gestionar y publicar críticas de películas. Incluye auten
 Si tienes una oportunidad o simplemente quieres hablar de código, escríbeme:
 
 📧 [mariafernandezgilarte@gmail.com](mailto:mariafernandezgilarte@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=mariwu&color=blueviolet&style=flat-square)
